@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Test / tool caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Packaging output
+build/
+dist/
+
+# Local experiments & scratch files
+_exp.py
+tests_tmp/
+crash1.txt
+nodes_gui.txt
+
+# Logs
+*.log

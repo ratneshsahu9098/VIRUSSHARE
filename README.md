@@ -548,5 +548,5 @@ console DEBUG).
   profile for Windows Firewall to allow it by default.
 - One transfer session per peer connection; multiple files per session.
 - Directory listings in history are session-level (no per-file history rows).
-- No code signing / branded icon in the built exe yet.
+- No code signing (Windows SmartScreen warns until the exe is signed).
 # VIRUSSHARE
